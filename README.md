@@ -3,12 +3,12 @@
 Udacity Python nanodegree project of Bikeshare data analysis of three cities was carried out by using Python language.
 The Pandas Dataframe and Time module (calculating time for analysis) were used to implement analysis of the bikeshare data.
 
-# heading 2 The questions answered through analysis of the data:
+## heading 2 The questions answered through analysis of the data:
 -Which city to analyse out of three? (Chicago,New York city,Washington)
 -Which month to analyse? (January to June, None)
 -Which day of week to be analysed? (Monday to Sunday, None)
 
-# heading 2 Statistics displayed:
+## heading 2 Statistics displayed:
 -The most pouplar month
 -The most popular day of week
 -The most popular start hour
